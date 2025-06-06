@@ -22,7 +22,7 @@ A user-friendly Streamlit web app for exploring and analyzing CSV files using na
 > _Include screenshots or a demo GIF here to show the app in action._
 >
 > ![Upload and Preview](![image](https://github.com/user-attachments/assets/86427963-5d27-4d5c-a0aa-fbc21a27b463)
-)
+
 )
 > 
 > ![Ask Questions](![image](https://github.com/user-attachments/assets/71dc133f-0835-4bc0-8058-a95c707e93d5)
