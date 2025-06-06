@@ -19,13 +19,13 @@ A user-friendly Streamlit web app for exploring and analyzing CSV files using na
 
 ## 🖼️ Preview
 
-(![image](https://github.com/user-attachments/assets/86427963-5d27-4d5c-a0aa-fbc21a27b463)
+![image](https://github.com/user-attachments/assets/86427963-5d27-4d5c-a0aa-fbc21a27b463)
 
 
-(![image](https://github.com/user-attachments/assets/71dc133f-0835-4bc0-8058-a95c707e93d5)
+![image](https://github.com/user-attachments/assets/71dc133f-0835-4bc0-8058-a95c707e93d5)
 
 
-(![image](https://github.com/user-attachments/assets/d4d39730-c0b1-4ae2-867a-3dc78fb96b79)
+![image](https://github.com/user-attachments/assets/d4d39730-c0b1-4ae2-867a-3dc78fb96b79)
 
 
 ---
