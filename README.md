@@ -29,13 +29,3 @@ A user-friendly Streamlit web app for exploring and analyzing CSV files using na
 
 
 ---
-
-## 🚀 Getting Started
-
-### 🔧 Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/your-username/csv-data-analysis-tool.git
-cd csv-data-analysis-tool
